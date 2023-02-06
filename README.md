@@ -4,11 +4,11 @@
 
 ## 运行演示
 
-###### 添加 TG:Maidensr 获取
+###### 添加 TG:[Maidensr](https://t.me/maidensr) 获取
 
 ## 后端 & 代理商后台 等演示
 
-###### 添加 TG:Maidensr 获取
+###### 添加 TG:[Maidensr](https://t.me/maidensr) 获取
 
 ## 基于ETH发行ERC20代币可参考：
 
