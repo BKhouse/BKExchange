@@ -38,7 +38,7 @@ https://gitee.com/ethergo/ether-erc20-token
 - 前台（交易页面、活动页面、个人中心等）
 - uniapp前端源码
 
-## 部署文档（超详细版）
+## 部署文档
 
 仅限客户使用
 
