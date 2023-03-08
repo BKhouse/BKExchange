@@ -77,6 +77,12 @@ https://gitee.com/ethergo/ether-erc20-token
 
 一台4核16G服务器搞定，带宽根据需求确定
 
+## 前后端源码购买
+
+预算太低请绕道
+
+添加 TG:[Maidensr](https://t.me/maidensr) 查看演示
+
 ## PC页面展示
 
 ##### 首页
